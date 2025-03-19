@@ -1,0 +1,8 @@
+nav {
+    background-color: #192048;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 20px;
+    height: 80px;
+}
